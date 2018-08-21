@@ -1,2 +1,2 @@
-# DUTFinal
-This is the final project at DUT
+# dutfinal-be
+This is the back-end final project at DUT
